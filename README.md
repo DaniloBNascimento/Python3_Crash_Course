@@ -6,7 +6,7 @@ This repository was create for learning python so simple mode. The codes is base
 
 # What you find here?
 > Examples codes:
-- Variables;
+- Variables and Data Structures;
 - Input and Output of data;
 - Condictional structure;
 - Repetition loops;
